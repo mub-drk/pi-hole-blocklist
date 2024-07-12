@@ -1,0 +1,17 @@
+# TikTok Chat Domains
+api.tiktok.com
+im.tiktokv.com
+chat.tiktok.com
+im-chat.tiktokv.com
+
+# Instagram Chat Domains
+i.instagram.com
+direct.instagram.com
+chat.instagram.com
+z-p42.www.instagram.com
+
+# Snapchat Chat Domains
+app.snapchat.com
+feelinsonice-hrd.appspot.com
+chat-feelinsonice-hrd.appspot.com
+snapchat.com
