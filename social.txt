@@ -1,33 +1,30 @@
-# Facebook
-.facebook.com
-.fb.com
-.fbcdn.net
-.facebook.net
-.fbcdn.com
-.fb.me
-.fbsbx.com
-.fb-messenger.com
+# TikTok
+tiktok.com
+*.tiktok.com
+musical.ly
+*.musical.ly
+tiktokcdn.com
+*.tiktokcdn.com
+ibytedtos.com
+*.ibytedtos.com
 
 # Instagram
-.instagram.com
-.cdninstagram.com
-.instagr.am
-.instagramstatic-a.akamaihd.net
-
-# Twitter
-.twitter.com
-.t.co
-.twimg.com
-.twitpic.com
+instagram.com
+*.instagram.com
+cdninstagram.com
+*.cdninstagram.com
+instagramstatic-a.akamaihd.net
+*.instagramstatic-a.akamaihd.net
+cdninstagram.com
+*.cdninstagram.com
+fbcdn.net
+*.fbcdn.net
 
 # Snapchat
-.snapchat.com
-.snapcdn.net
-.app.snapchat.com
-.feelinsonice-hrd.appspot.com
-
-# TikTok
-.tiktok.com
-.musical.ly
-.tiktokcdn.com
-.tiktokv.com
+snapchat.com
+*.snapchat.com
+snapkit.com
+*.snapkit.com
+app.snapchat.com
+*.app.snapchat.com
+feelinsonice.appspot.com
