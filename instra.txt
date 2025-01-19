@@ -17,3 +17,7 @@ instagramstatic-a.akamaihd.net.edgesuite.net
 157.240.1.13
 57.144.150.192
 157.240.1.23
+i.instagram.com
+direct.instagram.com
+chat.instagram.com
+z-p42.www.instagram.com
