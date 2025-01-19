@@ -1,0 +1,17 @@
+# TikTok Domains
+tiktok.com
+www.tiktok.com
+m.tiktok.com
+v.tiktok.com
+p16-tiktokcdn-com.akamaized.net
+p16-tiktokcdn-com-a.akamaihd.net
+p16-tiktokcdn-com-lb.akamaized.net
+p16-va-tiktokcdn-com.akamaized.net
+api.tiktokv.com
+api.tiktokv.com.edgesuite.net
+log.tiktokv.com
+mon.tiktokv.com
+ib.tiktokv.com
+sf16-tiktokcdn-com.akamaized.net
+ads.tiktok.com
+ads-sg.tiktok.com
