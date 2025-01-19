@@ -10,3 +10,10 @@ cdninstagram.com
 api.instagram.com
 instagramstatic-a.akamaihd.net
 instagramstatic-a.akamaihd.net.edgesuite.net
+10.215.173.2
+157.240.1.16
+103.118.78.97
+157.240.1.175
+157.240.1.13
+57.144.150.192
+157.240.1.23
