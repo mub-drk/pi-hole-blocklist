@@ -1,0 +1,12 @@
+# Instagram Domains
+instagram.com
+www.instagram.com
+help.instagram.com
+graph.instagram.com
+i.instagram.com
+b.i.instagram.com
+scontent.cdninstagram.com
+cdninstagram.com
+api.instagram.com
+instagramstatic-a.akamaihd.net
+instagramstatic-a.akamaihd.net.edgesuite.net
